@@ -32,4 +32,11 @@ A simple, interactive Machine Learning web app built with **Streamlit** that pre
 ---
 
 ## 📁 Folder Structure
+📁 ML_App_Deployment/
+├── streamlit_app.py
+├── model.pkl
+├── feature_names.pkl
+├── heart_disease_data.csv (optional, if you reference it in app)
+├── requirements.txt
+└── README.md (optional, but recommended)
 
